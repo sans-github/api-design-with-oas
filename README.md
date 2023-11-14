@@ -12,9 +12,9 @@ Tools for collaboration on API design and rapid prototyping.
 ## Rapid protytpying and test
 
 1. Generate swagger
-[OpenAPI Spec to Swagger](https://petstore.swagger.io/)
+[OpenAPI Swagger editor](https://editor.swagger.io)
 
-2. Create mock server from the spec to test. Docker-compose
+1. Create mock server from the spec to test. Docker-compose
 ```Docker
 version: "3.9"
 
